@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
+- [Aditya Agarwal](https://github.com/QMiNt)
 - [Biswakalyan Bhuyan](https://github.com/xgenos)
 - [Shweta Singh](https://github.com/shwetasingh14)
 - [Kishan Modasiya](https://github.com/kishumds)
